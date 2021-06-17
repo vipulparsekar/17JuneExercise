@@ -1,0 +1,7 @@
+1. Build a maven project through IDE ecliplse/netbeans/Intellij.
+2. Build a maven project manually using CMD.
+3. Write a program to reverse a string. Write a test case for the same. (Do this in your maven project).
+4. Calculate LCM & HCF of two numbers. Write a test case for the same. (Do this in your maven project).
+5. Document your code in HTML format using Javadoc.
+6. Calculate Sum & Average of the elements inside an array. Write a test case for the same. (Do this in your maven project).
+7. Add & commit the files to the local repository inside a branchname of your roll number. Push it to the remote repository.
