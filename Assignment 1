@@ -5,3 +5,4 @@
 5. Document your code in HTML format using Javadoc.
 6. Calculate Sum & Average of the elements inside an array. Write a test case for the same. (Do this in your maven project).
 7. Add & commit the files to the local repository inside a branchname of your roll number. Push it to the remote repository.
+8. Fetch a title of a webpage using selenium. Write a test case for the same.
